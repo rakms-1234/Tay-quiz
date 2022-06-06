@@ -5,7 +5,7 @@
 }
 body{
   background-color: #b8c6db;
-  background-image: url('../Images/Tay.jpeg');
+  background-image: url('Tay.jpeg');
   font-family: 'Poppins', sans-serif;
   display: flex;
   align-items: center;
